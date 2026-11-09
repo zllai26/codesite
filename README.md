@@ -10,7 +10,7 @@ You need [Docker](https://docs.docker.com/engine/install/) (or Podman) installed
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codesite.git
+   git clone https://github.com/zllai26/codesite.git
    cd codesite
    ```
 
